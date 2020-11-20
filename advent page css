@@ -1,0 +1,34 @@
+<style>
+#s-lg-guide-name{
+color: #AB1822 ;
+font-size: 220%;
+font-family: cursive;
+} /*font of title*/
+
+.s-lib-box .s-lib-box-title {
+font-weight: 550;
+font-size: 13.5pt;
+margin-top: 0;
+}
+#s-lib-bc-customer {
+  display: none;
+}
+#s-lib-bc-site{
+  display: none;
+}
+#s-lib-bc-group {
+  display: none;
+}
+#s-lib-bc-guide {
+  display: none;
+}
+#s-lib-bc-page{
+  display: none;
+}
+#s-lg-guide-header-search {
+  display: none;
+}
+/*#s-lg-guide-header{
+  display: none;
+}*/
+</style>
